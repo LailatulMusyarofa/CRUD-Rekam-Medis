@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  font-family: sans-serif;
+}
+th,
+td {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 5px;
+  text-align: center;
+}
+thead,
+tfoot {
+  background-color: #9ad0c2;
+}
+h2 {
+  text-align: center;
+}
